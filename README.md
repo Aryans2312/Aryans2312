@@ -34,7 +34,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate and dedicated developer focu
 
 - **GitHub**: You're already here! Explore my repositories and feel free to contribute or provide feedback.  
 - **Twitter**: Follow my daily learning journey [@MyTwitterHandle](https://x.com/Aryans_Tyagi_23).  
-- **LinkedIn**: Connect with me [here](https://www.linkedin.com/in/aryans-tyagi-344018191/)  
+- **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/aryans-tyagi-344018191/)  
 
 ---
 
