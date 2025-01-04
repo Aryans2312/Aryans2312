@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# 👋 Hi, I’m Aryans Tyagi!
+## 👋 Hi, I’m Aryans Tyagi!
 
 Welcome to my GitHub profile! 🚀 I'm a passionate and dedicated developer focused on learning, building, and contributing to meaningful projects. This profile is a reflection of my journey in technology, showcasing my growth, skills, and interests.  
 
